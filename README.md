@@ -12,3 +12,4 @@
 - ⚖️ We will open an brand new market for businesses to advertise their products by connecting them directly to their customers
 - 💻 We're a small team - if you're interested to contribute write us!
 - 🌱 Our codebase is written using `Dart`, `JavaScript`, `Java` and more
+- ❗️ All important reposetories are private - sry...
