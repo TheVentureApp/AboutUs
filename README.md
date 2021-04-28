@@ -1,9 +1,6 @@
 <div align="center">
-  <h1>Welcome to @TheVentureApp ✌🏽</h1>
-</div>
-
-<div align="center">
   <img src="https://github.com/TheVentureApp/RepoAssets/blob/master/logo.png?raw=true" width="50px">
+  <h1>Welcome to @TheVentureApp ✌🏽</h1>
 </div>
 
 <div>
